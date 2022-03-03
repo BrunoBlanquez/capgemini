@@ -6,7 +6,18 @@ JavaScript
 
 🛠️ Instruções para abrir e rodar as lógicas JS
 # Questão 01
-O objetivo desta aplicação é retornar o número mediano em uma array de números ímpares. Para executar a aplicação, uma array de números ímpares deve ser passada como argumento da função.
+* Objetivo
+O objetivo desta aplicação é retornar o número mediano em uma array de números ímpares. 
+
+* Execução
+Para executar a aplicação, uma array de números ímpares deve ser passada como argumento da função.
 
 # Questão 02
-O objetivo desta aplicação é retornar a quantidade de elementos pares em uma determinada array, com uma diferença de X. Para executar a aplicação, primeiro é necessário definir o valor de X, depois os parâmetros que serão analisados
+* Objetivo
+O objetivo desta aplicação é retornar a quantidade de elementos pares em uma determinada array, com uma diferença de X. 
+
+* Execução
+Para executar a aplicação, primeiro é necessário definir o valor de X, depois os parâmetros que serão analisados.
+
+* Observações
+O valor de X, bem como o tamanho da array analisada devem ser PAR.
