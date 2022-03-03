@@ -1,4 +1,7 @@
 # capgemini-
-Desafio de programação Capgemini 
+Desafio de programação 2 - Capgemini 
 
-EM CONSTRUÇÃO
+Linguagem Utilizada
+JavaScript
+
+🛠️ Instruções para abrir e rodar as lógicas JS
