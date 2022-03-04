@@ -1,5 +1,4 @@
-# capgemini-
-Desafio de programação 2 - Capgemini 
+# Desafio de programação 2 - Capgemini 
 
 Linguagem Utilizada
 JavaScript
