@@ -21,6 +21,5 @@ const criptografa = (texto) => {
     }
     resultadoFinal.push(" ")
   }
-
 return resultadoFinal.toString().replaceAll(",","").slice(0,-1)
 }

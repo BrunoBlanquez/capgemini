@@ -1,5 +1,6 @@
 const mediana = (...array) => {
-  if (array.length % 2 != 0) {
+  // Verifica se o valor passado como parâmetro é impar e maior que 1
+  if (array.length % 2 != 0 && array.length > 1) {
     let resultado = array.sort((a,b) => {
     return a - b
     })

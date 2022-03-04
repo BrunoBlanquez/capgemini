@@ -14,18 +14,15 @@
 O objetivo desta aplicação é retornar o número mediano em uma array de números ímpares. 
 
 `Execução:`
-Para executar a aplicação, uma array de números ímpares deve ser passada como argumento da função.
+Para executar a aplicação, uma array de números ímpares deve ser passada como argumento da função. O tamanho mínimo para a função ser executava é de 3 caracteres.
 
 <h4>Questão 02</h4>
 
 `Objetivo:`
-O objetivo desta aplicação é retornar a quantidade de elementos pares em uma determinada array, com uma diferença de X. 
+O objetivo desta aplicação é retornar a quantidade de pares em uma determinada array, com uma diferença de X. 
 
 `Execução:`
-Para executar a aplicação, primeiro é necessário definir o valor de X, depois os parâmetros que serão analisados.
-
-`Observações:`
-O valor de X, bem como o tamanho da array analisada, devem ser PAR.
+Para executar a aplicação, primeiro é necessário definir o valor de X (o número de diferenças entre os elementos), depois os números que serão analisados.
 
 <h4>Questão 03</h4>
 
